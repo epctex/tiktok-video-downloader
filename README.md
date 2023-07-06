@@ -35,7 +35,7 @@ When you want to have a scrape over a specific list URL, just copy and paste the
 
 ### Compute Unit Consumption
 
-The actor optimized to run blazing fast and scrape as many items as possible. Therefore, it forefronts all the detail requests. If actor doesn't block very often it'll scrape 1 video in under 15 seconds with ~0.01-0.02 compute units.
+The actor optimized to run blazing fast and scrape as many items as possible. Therefore, it forefronts all the detail requests. If actor doesn't block very often it'll scrape 1 video in under 45 seconds with ~0.01-0.02 compute units.
 
 ### Tiktok video downloader Input example
 
