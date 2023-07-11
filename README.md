@@ -1,4 +1,4 @@
-# [https://apify.com/epctex/tiktok-video-downloader](https://apify.com/epctex/tiktok-video-downloader?fpr=yhdrb)
+[https://apify.com/epctex/tiktok-video-downloader](https://apify.com/epctex/tiktok-video-downloader?fpr=yhdrb)
 
 # Actor - TikTok Video Downloder
 
